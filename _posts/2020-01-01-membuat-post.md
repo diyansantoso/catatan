@@ -1,7 +1,7 @@
 ---
  title: Membuat Post
  date: 2020-01-01 00:00:00 +/-0000
- categories: [MARKDWON]
+ categories: [MARKDOWN]
  tags: [post, jekyll]
  description: Membuat post
 ---
